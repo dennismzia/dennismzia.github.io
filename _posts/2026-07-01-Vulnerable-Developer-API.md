@@ -13,7 +13,7 @@ mermaid: false
 #   alt: Image generated with DALL-E 3
 ---
 
-# The Hidden Proxy: Exploiting a Vulnerable Developer API
+# The Hidden Proxy
 
 Some time ago, I was invited to security-test a private application. Although the main platform was robust, having been vetted by top hackers, I decided to examine its developer interface.
 
