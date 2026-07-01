@@ -5,7 +5,7 @@ author: Dennis_Mwanzia
 date: 2026-07-01 10:18:18 +0000
 categories: [Cybersecurity]
 tags: [security, IDOR, hacking]
-pin: false
+pin: true
 math: false
 mermaid: false
 # image:
